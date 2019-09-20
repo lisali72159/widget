@@ -1,0 +1,40 @@
+.clock-box {
+  background-color: papayawhip;
+  font-family: Monoton;
+  font-size: 50px;
+  font-weight: 50;
+  color: rebeccapurple;
+  width: 75%;
+  border: skyblue solid 5px;
+  display: block;
+  margin: auto;
+}
+
+html {
+  background-color: peachpuff;
+}
+
+.clock-box ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.tabs {
+  background-color: papayawhip;
+  font-family: Monoton;
+  font-size: 50px;
+  font-weight: 50;
+  color: rebeccapurple;
+  width: 75%;
+  border: skyblue solid 5px;
+  display: block;
+  margin: auto;
+}
+
+#root {
+  background-color: gainsboro;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
